@@ -3,6 +3,7 @@ A USB linux driver
 
 
 #Comandos
+
 ver o ID: lsusb -> 	colocar pen drive -> lsusb
 
 sudo make
